@@ -7,6 +7,7 @@ do {
   var kx3j = extractHostname(hXbl)
     if (sd3Xsd.indexOf(kx3j)>-1){
     }else{
+       hXbl = encodeURIComponent(hXbl);
 X3ele[viru].href="https://cut-my-url-hamiane.blogspot.com/?url="+ btoa(hXbl);}
 ++viru;
 } while (viru < Xdad);
