@@ -9,4 +9,4 @@ if(displaymore==!0){if(flag==1)towrite=towrite+' | ';towrite=towrite+'<a href="'
 document.write(towrite);document.write('</li>');if(displayseparator==!0)if(i!=(numposts-1))document.write('')}
 document.write('</ul>')}
 var numposts = 12;var showpostthumbnails = true;var displaymore = false;var displayseparator = true;var showcommentnum = false;var showpostdate = false;var showpostsummary = true;var numchars = 100;var urlq = yoursite + "/feeds/posts/default?orderby=updated&alt=json-in-script&callback=labelthumbs";
-document.write("&#039;&lt;script src=&#039;&quot; + urlq + &quot;&#039;&gt;&lt;\/script&gt;&#039;");
+document.write("'<script src='" + urlq + "'><\/script>'");
