@@ -65,6 +65,6 @@ num+=150;
         document.getElementById("sitemapbyMH").appendChild(script);
     }
 }
-var scripto =document.createElement("script")
-        scripto.src="/feeds/posts/default/?start-index=1&max-results=150&orderby=published&alt=json-in-script&callback=GetSitemap";
-        document.getElementById("sitemapbyMH").appendChild(scripto);
+    var scripto =document.createElement("script")
+    scripto.src="/feeds/posts/default/?start-index=1&max-results=150&orderby=published&alt=json-in-script&callback=GetLabels";
+    document.getElementById("sitemapbyMH").appendChild(scripto);
