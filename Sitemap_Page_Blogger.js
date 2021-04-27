@@ -1,4 +1,4 @@
-//var ShowImage = true;
+//var ShowImage = false;
 var labels=[];
 var grotitle = document.createElement("h1");
 grotitle.style.textAlign="center";
@@ -8,9 +8,9 @@ function GetLabels(e) {
     for (let i = 0; i < e.feed.category.length; i++) {
         labels.push(e.feed.category[i].term);
         var titlemh = document.createElement("h2");
-        if(ShowImage==true){
+        
             titlemh.className="h2style";
-        }
+        
         titlemh.innerHTML=e.feed.category[i].term;
         var listul = document.createElement("ul");
         listul.className="MH" + i;
@@ -18,7 +18,7 @@ function GetLabels(e) {
         document.getElementById("sitemapbyMH").appendChild(listul);
     }
     var script =document.createElement("script")
-    script.src="https://www.netaawy.com/feeds/posts/default/?start-index=1&max-results=150&orderby=published&alt=json-in-script&callback=GetSitemap";
+    script.src="/feeds/posts/default/?start-index=1&max-results=150&orderby=published&alt=json-in-script&callback=GetSitemap";
     document.getElementById("sitemapbyMH").appendChild(script);
 }
 var num=0;
@@ -61,8 +61,10 @@ var allposts = parseInt(e.feed["openSearch$totalResults"]["$t"]);
 num+=150;
     if (allposts > num){
         var script =document.createElement("script")
-        script.src="https://www.netaawy.com/feeds/posts/default/?start-index="+num+"&max-results=150&orderby=published&alt=json-in-script&callback=GetSitemap";
+        script.src="/feeds/posts/default/?start-index="+num+"&max-results=150&orderby=published&alt=json-in-script&callback=GetSitemap";
         document.getElementById("sitemapbyMH").appendChild(script);
     }
-
 }
+var scripto =document.createElement("script")
+        scripto.src="/feeds/posts/default/?start-index=1&max-results=150&orderby=published&alt=json-in-script&callback=GetSitemap";
+        document.getElementById("sitemapbyMH").appendChild(scripto);
