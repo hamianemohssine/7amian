@@ -11,7 +11,7 @@ function checkiffirst(aruk){
     if(aruk != null){
     var tfs = aruk.substring(0,1);
     if(tfs == "/"){
-        var gli =  location.protocol + "//" + location.hostname + "/";
+        var gli =  location.protocol + "//" + location.hostname + aruk;
         vegeta = gli;
     }
     }
