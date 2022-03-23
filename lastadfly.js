@@ -7,11 +7,13 @@ function addflesh(e) {
     return "/" != h && (a = e + "/"), a
 }
 function checkiffirst(aruk){
-    var tfs = aruk.substring(0,1);
     var vegeta = aruk;
+    if(aruk.length > 2){
+    var tfs = aruk.substring(0,1);
     if(tfs == "/"){
         var gli =  location.protocol + "//" + location.hostname + "/";
         vegeta = gli;
+    }
     }
     return vegeta;
 }
