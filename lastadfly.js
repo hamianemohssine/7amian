@@ -8,7 +8,7 @@ function addflesh(e) {
 }
 function checkiffirst(aruk){
     var vegeta = aruk;
-    if(aruk.length > 2){
+    if(aruk != null){
     var tfs = aruk.substring(0,1);
     if(tfs == "/"){
         var gli =  location.protocol + "//" + location.hostname + "/";
