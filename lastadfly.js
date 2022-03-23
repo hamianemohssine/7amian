@@ -6,6 +6,15 @@ function addflesh(e) {
         a = e;
     return "/" != h && (a = e + "/"), a
 }
+function checkiffirst(aruk){
+    var tfs = aruk.substring(0,1);
+    var vegeta = aruk;
+    if(tfs == "/"){
+        var gli =  location.protocol + "//" + location.hostname + "/";
+        vegeta = gli;
+    }
+    return vegeta;
+}
 var mh_urls = document.querySelectorAll("a");
 for (let e = 0; e < mh_urls.length; e++) {
     var yon = !1,
@@ -22,8 +31,9 @@ for (let e = 0; e < mh_urls.length; e++) {
       }
 }
 if (1 == yon) {
-        var converted = aesCrypto.encrypt(ahref, "123"),
-            mergerlinks = addflesh(mh_converter) + "search?q=" + converted + "hamian";
-        mh_urls[e].setAttribute("href", mergerlinks)
+        var khref = checkiffirst(ahref);
+        var converted = aesCrypto.encrypt(khref, "123");
+        mergerlinks = addflesh(mh_converter) + "search?q=" + converted + "hamian";
+        mh_urls[e].setAttribute("href", mergerlinks);
     }
 }
