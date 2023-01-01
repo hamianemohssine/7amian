@@ -1,0 +1,1668 @@
+{
+  "version": "1.0",
+  "encoding": "UTF-8",
+  "feed": {
+    "entry": [
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7597443668011349625.post-7408919904909026081"
+        },
+        "published": {
+          "$t": "2022-11-03T21:12:00.007+00:00"
+        },
+        "updated": {
+          "$t": "2022-11-04T13:04:54.677+00:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "اضافات بلوجر"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "إضافة جدول المحتويات تلقائيًّا داخل مواضيع مدونة بلوجر"
+        },
+        "summary": {
+          "type": "text",
+          "$t": "هناك العديد من العوامل التي يمكن أن تؤثر على جودة السيو للمدونة والموقع الإلكتروني. أحد هذه العوامل هو جودة المقالات التي تتم مشاركتها مع محركات البحث.كلما كانت جودة المقالة أفضل ، زادت فرصة الحصول على أعلى التصنيفات في نتائج البحث. لكن ما هي خصائص المقال الجيد؟تعد إضافة جدول المحتويات (Table of Contents) جزءًا من نصائح تحسين محركات البحث (SEO) لجعل مواضيع المدونة سهلة الاستخدام.جدول المحتويات هو"
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "https://www.7amian.com/feeds/7408919904909026081/comments/default",
+            "title": "تعليقات الرسالة"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "https://www.7amian.com/2022/11/table-of-contents.html#comment-form",
+            "title": "0 تعليقات"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7597443668011349625/posts/default/7408919904909026081"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7597443668011349625/posts/default/7408919904909026081"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.7amian.com/2022/11/table-of-contents.html",
+            "title": "إضافة جدول المحتويات تلقائيًّا داخل مواضيع مدونة بلوجر"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "محسن حميان"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/14526133757663220873"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "32",
+              "height": "32",
+              "src": "//2.bp.blogspot.com/-9Raq6968biU/Yp_cewJlvHI/AAAAAAAAA3w/9OEHyWEg7uwfDBkl8Jmn4Nl4T8ym72iiACK4BGAYYCw/s113/20220430_175512%2B%25281%2529.png"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8MIViVdtFXoT0_ULWMqJvCMYV3uA4wH7-avAf85nbooaxsJQyJa7B4fd_cYsfBXKzpIOtIESpbU6rQUT1mryODwzqKBFVOXc2XuyRVf4IpaTFGdw_iVNTlwYjVxOzyiqtCFTT8m7anlxVZkRvv2H5JmMrIg1FtEaaCd7M0c-Bezap4EtqmZfjZbbu/s72-c-rw/%D8%AC%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D9%88%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%86%D9%82%D9%84-%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D9%88%D9%89-%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%81%D9%8A.jpg",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "0"
+        }
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7597443668011349625.post-7081603979630362502"
+        },
+        "published": {
+          "$t": "2022-10-24T22:18:00.002+00:00"
+        },
+        "updated": {
+          "$t": "2022-11-04T13:03:29.507+00:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "شروحات بلوجر"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "تأجيل تحميل صندوق التعليق أسفل مواضيع مدونة بلوجر"
+        },
+        "summary": {
+          "type": "text",
+          "$t": "هل تبحث عن طريقة لتسريع مدونة بلوجر ؟ هل تبحث عن كيفية تأجيل تحميل صندوق التعليقات أسفل مواضيع  مدونتك ؟ هل تبحث عن كيفية تركيب التحميل الكسول لصندوق التعليق على بلوجر ؟خاصية تأجيل تحميل صندوق التعليق هي من الخواص المهمة الموجودة في بعض قوالب بلوجر المدفوعة الاحترافية، لكن لا نجد أي شخص يشرحها على الانترنت، لوجود إحتكار كبير للمعلومات، خاصة حول بلوجر وبرمجة قوالب بلوجر.تأجيل تحميل صندوق التعليق "
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "https://www.7amian.com/feeds/7081603979630362502/comments/default",
+            "title": "تعليقات الرسالة"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "https://www.7amian.com/2022/10/lazy-loading-of-comments.html#comment-form",
+            "title": "0 تعليقات"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7597443668011349625/posts/default/7081603979630362502"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7597443668011349625/posts/default/7081603979630362502"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.7amian.com/2022/10/lazy-loading-of-comments.html",
+            "title": "تأجيل تحميل صندوق التعليق أسفل مواضيع مدونة بلوجر"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "محسن حميان"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/14526133757663220873"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "32",
+              "height": "32",
+              "src": "//2.bp.blogspot.com/-9Raq6968biU/Yp_cewJlvHI/AAAAAAAAA3w/9OEHyWEg7uwfDBkl8Jmn4Nl4T8ym72iiACK4BGAYYCw/s113/20220430_175512%2B%25281%2529.png"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGUlBAidqdxLlTZHDeTNPpBY74IKNu_SVgFxHWzbfpvCKe7y9ViyBhQgL2gSA9o6SNOMyW6GMUIJapEA_qzlPVOMz3pk2w1R25M2NXjjMpocsqSIE5xfGCbmE2PfY_GiKR_QRpJ5VhttG1Hf6BHooCujBkGTZx97wH3oVxzpoTubyciC5xu_arIrj9/s72-c-rw/%D8%AA%D8%A3%D8%AC%D9%8A%D9%84%20%D8%AA%D8%AD%D9%85%D9%8A%D9%84%20%D8%B5%D9%86%D8%AF%D9%88%D9%82%20%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%82%20%D9%81%D9%8A%20%D9%85%D8%AF%D9%88%D9%86%D8%A9%20%D8%A8%D9%84%D9%88%D8%AC%D8%B1%20%D9%84%D8%AA%D8%B3%D8%B1%D9%8A%D8%B9%20%D9%85%D8%AF%D9%88%D9%86%D8%A9%20%D8%A8%D9%84%D9%88%D8%AC%D8%B1.jpg",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "0"
+        }
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7597443668011349625.post-8281034149850753438"
+        },
+        "published": {
+          "$t": "2022-10-21T00:45:00.003+00:00"
+        },
+        "updated": {
+          "$t": "2022-11-04T13:03:44.480+00:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "اضافات بلوجر"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "إضافة قائمة أكورديون احترافية لتنظيم محتوى المواضيع"
+        },
+        "summary": {
+          "type": "text",
+          "$t": "هل تبحث عن قائمة أكورديون منسدلة؟ هل تبحث عن قائمة سؤال وجواب منسدلة؟ هذا الشرح سيكون حول أداة احترافية لعرض المحتوى المخفي داخل مواضيع المدونة، والتي لها أدوار عديدة أهمها توفير المساحة وتحسين تجربة زوار موقعك.ماهي قائمة أكورديون ؟قائمة أكورديون هي عبارة عن إضافة برمجية تتمثل في قوائم منسدلة لإظهار وإخفاء محتوى HTML، تقوم أداة أكورديون بتنظيم المحتوى داخل عناصر قابلة لطي بهدف توفير المساحة، حيث "
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "https://www.7amian.com/feeds/8281034149850753438/comments/default",
+            "title": "تعليقات الرسالة"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "https://www.7amian.com/2022/10/accordion-menu.html#comment-form",
+            "title": "0 تعليقات"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7597443668011349625/posts/default/8281034149850753438"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7597443668011349625/posts/default/8281034149850753438"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.7amian.com/2022/10/accordion-menu.html",
+            "title": "إضافة قائمة أكورديون احترافية لتنظيم محتوى المواضيع"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "محسن حميان"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/14526133757663220873"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "32",
+              "height": "32",
+              "src": "//2.bp.blogspot.com/-9Raq6968biU/Yp_cewJlvHI/AAAAAAAAA3w/9OEHyWEg7uwfDBkl8Jmn4Nl4T8ym72iiACK4BGAYYCw/s113/20220430_175512%2B%25281%2529.png"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3DfWcq6wdYsgqEMXvQGpj9RPOGkknqcM1PR1d8gPNUR1gYnnZgDBH6RK5RpcbTgd40fKPErSA6C04iqsYaKzqv85cllcHyY5R7vMDsmfPJDZU5BWJCDZHunJkW7GLSPHE5dT0IUR6QruRpCjjtTgcuj3yh-Sz2pGGMudfQ246hQCmw3LymJGiy7sE/s72-c-rw/%D9%82%D8%A7%D8%A6%D9%85%D8%A9%20%D8%A3%D9%83%D9%88%D8%B1%D8%AF%D9%8A%D9%88%D9%86%20%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%81%D9%8A%D8%A9%20%D8%AA%D8%A8%D9%88%D9%8A%D8%A8%D8%A7%D8%AA%20%D9%85%D9%86%D8%B3%D8%AF%D9%84%D8%A9.jpg",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "0"
+        }
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7597443668011349625.post-1904115275535167567"
+        },
+        "published": {
+          "$t": "2022-10-07T00:22:00.004+00:00"
+        },
+        "updated": {
+          "$t": "2022-10-09T17:13:01.740+00:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "شروحات بلوجر"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "جعل فيديوهات اليوتيوب متجاوبة تلقائيا في كل مواضيع مدونتك"
+        },
+        "summary": {
+          "type": "text",
+          "$t": "هل سبق ان حاولت جعل فيديو يوتيوب متجاوب في مواضيع مدونتك ولم تنجح؟ اذا كان الأمر كذلك فأنت في المكان الصحيح، في هذا الشرح سأقدم لك أفضل طريقة لجعل فيديوهات مدونتك متجاوبة 100% داخل كل مقالات بلوجر.أفضل طريقة لجعل مقاطع فيديو اليوتيوب متجاوبة داخل مشاركات بلوجرعند وضع اي مقطع فيديو من اليوتيوب في احد مواضيع مدونتك، فغالبا ما يظهر صغير في الوسط بأبعاد غير متجاوبة وهذا ما يشكل مجموعة من المشاكل، "
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "https://www.7amian.com/feeds/1904115275535167567/comments/default",
+            "title": "تعليقات الرسالة"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "https://www.7amian.com/2022/10/make-youtube-videos-responsive.html#comment-form",
+            "title": "0 تعليقات"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7597443668011349625/posts/default/1904115275535167567"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7597443668011349625/posts/default/1904115275535167567"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.7amian.com/2022/10/make-youtube-videos-responsive.html",
+            "title": "جعل فيديوهات اليوتيوب متجاوبة تلقائيا في كل مواضيع مدونتك"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "محسن حميان"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/14526133757663220873"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "32",
+              "height": "32",
+              "src": "//2.bp.blogspot.com/-9Raq6968biU/Yp_cewJlvHI/AAAAAAAAA3w/9OEHyWEg7uwfDBkl8Jmn4Nl4T8ym72iiACK4BGAYYCw/s113/20220430_175512%2B%25281%2529.png"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzZt_FzDZsZiXeeYuYQNHEQ0wvDOo7O_6T_CFOoa1qPX9Et65Eru47X-zI7thTCGox3KVIhdV9j92Z_eRbNxEpWDWDLrzs6-1ovk_-Gz9eQSIbYQzdnVU-7UeyVtbpVwXFwagEmUD0LnpCqPltyXvsY9SYYRSyQ07f0AgIRloSsB5B0FF2un365pU4/s72-c-rw/%D9%83%D9%8A%D9%81%D9%8A%D8%A9%20%D9%88%D8%B7%D8%B1%D9%8A%D9%82%D8%A9%20%D8%AC%D8%B9%D9%84%20%D9%81%D9%8A%D8%AF%D9%8A%D9%88%D9%87%D8%A7%D8%AA%20%D8%A7%D9%84%D9%8A%D9%88%D8%AA%D9%8A%D9%88%D8%A8%20%D9%85%D8%AA%D8%AC%D8%A7%D9%88%D8%A8%D8%A9%20%D8%A8%D8%B4%D9%83%D9%84%20%D8%A7%D9%88%D8%AA%D9%88%D9%85%D8%A7%D8%AA%D9%8A%D9%83%D9%8A.jpg",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "0"
+        }
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7597443668011349625.post-4459433836629097608"
+        },
+        "published": {
+          "$t": "2022-10-01T14:45:00.003+00:00"
+        },
+        "updated": {
+          "$t": "2022-10-01T16:14:25.550+00:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "اضافات بلوجر"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "إضافة أزرار التحميل والمعاينة الإحترافية على مدونة بلوجر"
+        },
+        "summary": {
+          "type": "text",
+          "$t": " هل تبحث عن كيفية اضافة ازرار المعاينة والتحميل الى موقعك ؟  سنقدم لك في هذا الموضوع ثلاث ازرار احترافية واحد لمعاينة و آخر لتحميل والأخير هو زر صالح لكل الروابط.ازرار التحميل والمعاينة هي عبارة عن Buttons إحترافية مخصصة لإضفاء رونق جميل على روابط مدونتك المميزة، بهذف اثارة انتباه الزائر نحو الروابط المهمة في مدونتك.اذا كانت لديك مدونة بلوجر او موقع الكتروني على الانترنت ترفع عليه قوالب بلوجر، "
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "https://www.7amian.com/feeds/4459433836629097608/comments/default",
+            "title": "تعليقات الرسالة"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "https://www.7amian.com/2022/10/download-and-demo-buttons.html#comment-form",
+            "title": "0 تعليقات"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7597443668011349625/posts/default/4459433836629097608"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7597443668011349625/posts/default/4459433836629097608"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.7amian.com/2022/10/download-and-demo-buttons.html",
+            "title": "إضافة أزرار التحميل والمعاينة الإحترافية على مدونة بلوجر"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "محسن حميان"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/14526133757663220873"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "32",
+              "height": "32",
+              "src": "//2.bp.blogspot.com/-9Raq6968biU/Yp_cewJlvHI/AAAAAAAAA3w/9OEHyWEg7uwfDBkl8Jmn4Nl4T8ym72iiACK4BGAYYCw/s113/20220430_175512%2B%25281%2529.png"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDFcGKjL0HyfrrQv7DDPsTDpq6uWUgeuysbWHgtVJY7u0srqz461is5SX6uEeXV6AvM7iTVkzrgr6m0mPSMvXQy7kYbqdJsUg81QdZpBkeOQhcDKHxv49Vogz9phCzFr-1mUh-B_B1uEcS_BOjYmZZbjxpaXPoAwqyefVT6ChpzVYp7uo-GmInXFnB/s72-c-rw/%D8%A7%D8%B2%D8%B1%D8%A7%D8%B1%20%D8%A7%D9%84%D8%AA%D8%AD%D9%85%D9%8A%D9%84%20%D9%88%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D9%8A%D9%86%D8%A9%20%D9%83%D9%88%D8%AF%20%D8%A7%D9%84%D8%AA%D8%AD%D9%85%D9%8A%D9%84%20%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%81%D9%8A.jpg",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "0"
+        }
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7597443668011349625.post-7249693514873006660"
+        },
+        "published": {
+          "$t": "2022-09-22T01:28:00.006+00:00"
+        },
+        "updated": {
+          "$t": "2022-10-20T23:51:56.331+00:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "قوالب بلوجر"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "قالب Ezzy : قالب بلوجر عربي مجاني متجاوب وبدون حقوق"
+        },
+        "summary": {
+          "type": "text",
+          "$t": "تحميل قالب Ezzy، قالب بلوجر عربي مجاني وبدون حقوق، متجاوب مع جميع انواع شاشات الهواتف الذكية والأجهزة الإلكترونية اللوحية، يتضمن القالب انواع مختلفة من الأدوات لعرض المشاركات، كما يعتبر من افضل قوالب بلوجر لتدوين، وصالح لجميع انواع المحتويات.قالب Ezzy : قالب بلوجر إحترافيقالب Ezzy هو من أحدث قوالب بلوجر جيل من سمات إطار العمل تم تصميمه وترميزه لنوعية محتوى محدد مثل الأخبار، المجلات، التصوير، "
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "https://www.7amian.com/feeds/7249693514873006660/comments/default",
+            "title": "تعليقات الرسالة"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "https://www.7amian.com/2022/09/ezzy-template.html#comment-form",
+            "title": "0 تعليقات"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7597443668011349625/posts/default/7249693514873006660"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7597443668011349625/posts/default/7249693514873006660"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.7amian.com/2022/09/ezzy-template.html",
+            "title": "قالب Ezzy : قالب بلوجر عربي مجاني متجاوب وبدون حقوق"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "محسن حميان"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/14526133757663220873"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "32",
+              "height": "32",
+              "src": "//2.bp.blogspot.com/-9Raq6968biU/Yp_cewJlvHI/AAAAAAAAA3w/9OEHyWEg7uwfDBkl8Jmn4Nl4T8ym72iiACK4BGAYYCw/s113/20220430_175512%2B%25281%2529.png"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPaBivAMlyn1mBHm49TNc2UM1rHDCV021utbCgUIDi4GiceY5qbehEOiHpk1J57Aj8gRWOo0Jv5G9RL7pNIsYECi4qCNYTsyVUJxzJVhxtvAzqUiwXgL94TG1j_9Z_lAjzpVujjFRLAKBnHUKJjOSCjHAJAjPP-2Qop22CWNy8sfbytCpHH3-WSNHH/s72-c-rw/%D9%82%D8%A7%D9%84%D8%A8%20%D8%A8%D9%84%D9%88%D8%AC%D8%B1%20%D9%85%D8%B9%D8%B1%D8%A8.webp",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "0"
+        }
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7597443668011349625.post-1774731537747433200"
+        },
+        "published": {
+          "$t": "2022-06-30T02:48:00.006+00:00"
+        },
+        "updated": {
+          "$t": "2022-09-19T02:15:18.324+00:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "اضافات بلوجر"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "إضافة أداة آخر التعليقات في الشريط الجانبي على مدونة بلوجر"
+        },
+        "summary": {
+          "type": "text",
+          "$t": "إضافة أداة عرض آخر التعليقات على Sidebar في مدونة بلوجرهل تبحث عن أداة عرض التعليقات على مدونة بلوجر ؟ هل تريد اضافة اداة عرض آخر تعليقات مدونة بلوجر على الشريط الجانبي ؟اداة عرض آخر تعليقات مدونة بلوجر على الشريط الجانبي، هي اداة بسيطة تمكنك من عرض أحدث التعليقات على مدونتك، تقوم هذه الأداة بعرض تعليقات زوار مدونتك، كما يمكنك التحكم في عدد التعاليق المراد عرضها.تقوم الأداة بعرض في كل تعليق، اسم "
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "https://www.7amian.com/feeds/1774731537747433200/comments/default",
+            "title": "تعليقات الرسالة"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "https://www.7amian.com/2022/06/show-comments-on-the-sidebar.html#comment-form",
+            "title": "0 تعليقات"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7597443668011349625/posts/default/1774731537747433200"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7597443668011349625/posts/default/1774731537747433200"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.7amian.com/2022/06/show-comments-on-the-sidebar.html",
+            "title": "إضافة أداة آخر التعليقات في الشريط الجانبي على مدونة بلوجر"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "محسن حميان"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/14526133757663220873"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "32",
+              "height": "32",
+              "src": "//2.bp.blogspot.com/-9Raq6968biU/Yp_cewJlvHI/AAAAAAAAA3w/9OEHyWEg7uwfDBkl8Jmn4Nl4T8ym72iiACK4BGAYYCw/s113/20220430_175512%2B%25281%2529.png"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvIlLs_qa9Hbd8dXbJq6qeUSP_gsaEsEPbRZ85AKuMehhIKMFUkIkd6LYaHZBuvOXqH6s_e0Xj-sQWkKOfNt6OKz0yny_LsXsRxHY2Rm2AzipXoSk-M-pBxA7-eyNftqH2YXgs59cC9jGLiykat1qZEE7iu36N5aPCKQhNH0ulPVfg7g6Pg_9YpkaZ/s72-c/%D8%A5%D8%B6%D8%A7%D9%81%D8%A9-%D8%A3%D8%AF%D8%A7%D8%A9-%D8%A2%D8%AE%D8%B1-%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D9%89-%D9%85%D8%AF%D9%88%D9%86%D8%A9-%D8%A8%D9%84%D9%88%D8%AC%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D8%B1%D9%8A%D8%B7-%D8%A7%D9%84%D8%AC%D8%A7%D9%86%D8%A8%D9%8A-Sidebar.png",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "0"
+        }
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7597443668011349625.post-3101961969619674739"
+        },
+        "published": {
+          "$t": "2022-06-05T21:55:00.017+00:00"
+        },
+        "updated": {
+          "$t": "2022-10-20T23:51:16.946+00:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "قوالب بلوجر"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "قالب بلوجر احترافي بدون حقوق ملكية وبجودة قوالب بلوجر المدفوعة"
+        },
+        "summary": {
+          "type": "text",
+          "$t": "هل تبحث عن أفضل قوالب بلوجر ؟ في هذا المنشور سوف تتعرف عن أفضل قالب صالح لمختلف انواع المحتوى التقنية، الطبخ، أخبار، وغيرها.قد يكون ووردبريس احد منصات ادارة المحتوى القوية، لكن ومع ذلك، لم يفقد بلوجر شعبيته وخصوصا بين المبتدئين في مجال التدوين، حيث يوفر بلوجر اسهل طريقة لإنشاء مدونتك الالكترونية وإدارتها بأقل التكاليف.يفور بلوجر للمدونين مجموعة من القوالب المجانية، لكنها لا تعتبر احترافية ولا "
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "https://www.7amian.com/feeds/3101961969619674739/comments/default",
+            "title": "تعليقات الرسالة"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "https://www.7amian.com/2022/06/professional-blogger-template.html#comment-form",
+            "title": "0 تعليقات"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7597443668011349625/posts/default/3101961969619674739"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7597443668011349625/posts/default/3101961969619674739"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.7amian.com/2022/06/professional-blogger-template.html",
+            "title": "قالب بلوجر احترافي بدون حقوق ملكية وبجودة قوالب بلوجر المدفوعة"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "محسن حميان"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/14526133757663220873"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "32",
+              "height": "32",
+              "src": "//2.bp.blogspot.com/-9Raq6968biU/Yp_cewJlvHI/AAAAAAAAA3w/9OEHyWEg7uwfDBkl8Jmn4Nl4T8ym72iiACK4BGAYYCw/s113/20220430_175512%2B%25281%2529.png"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEiSagUQ9UxstJMOKLjP4A500PQ8QrZG7zPwAfLrNZlO2YrX4ZqSpQoW8bExaKu4O5B0rqaklCwWpD9FNKLUMN3Gme1BgSIYMDSz5cumF8o-2N-GZ74gHCMDa0XgMqM482wngE1gFTC5Wr0XdDobtilW-QqwfGTBX6Or9atMrzIAH1GPNkl_3l_dGivA=s72-c-rw",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "0"
+        }
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7597443668011349625.post-5630580340169410651"
+        },
+        "published": {
+          "$t": "2022-03-29T03:20:00.007+00:00"
+        },
+        "updated": {
+          "$t": "2022-09-21T00:48:25.606+00:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "قوالب بلوجر"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "تحميل قالب ادفلاي آخر اصدار لإختصار الروابط على بلوجر"
+        },
+        "summary": {
+          "type": "text",
+          "$t": "الانترنت مليء بقوالب بلوجر لإختصار الروابط ومن بينها بعض قوالب بلوجر الشبيهة بموقع ادفلاي الشهير وقد قمت انا شخصيا بتقديم قالب ادفلاي على مدونة حميان للمعلوميات، لكن احسست انه معقد نوعا ما فقررت ان اقوم بإعادة برمجة اصدار جديد من قالب ادفلاي يكون اكثر بساطة وتنظيما.قالب بلوجر الذي ساقدمه لكم في هذا الشرح هو عبارة عن قالب بسيط يمكن من خلاله اختصار الروابط بهذف ربحي حيث يمكنك وضع اعلانات مختلفة على"
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "https://www.7amian.com/feeds/5630580340169410651/comments/default",
+            "title": "تعليقات الرسالة"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "https://www.7amian.com/2022/03/adfly.html#comment-form",
+            "title": "11 تعليقات"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7597443668011349625/posts/default/5630580340169410651"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7597443668011349625/posts/default/5630580340169410651"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.7amian.com/2022/03/adfly.html",
+            "title": "تحميل قالب ادفلاي آخر اصدار لإختصار الروابط على بلوجر"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "محسن حميان"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/14526133757663220873"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "32",
+              "height": "32",
+              "src": "//2.bp.blogspot.com/-9Raq6968biU/Yp_cewJlvHI/AAAAAAAAA3w/9OEHyWEg7uwfDBkl8Jmn4Nl4T8ym72iiACK4BGAYYCw/s113/20220430_175512%2B%25281%2529.png"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEj8764k5bvEOHdwUm9qX7ZrjJqAWPPJxQfvivUfGhZeTiMjCEyr073A2SgoVnpaeuw2HLmToS1jxtDLFmO46odW1KggPiIWfpO6U2aouZYqvohjR3t3yFRpgL1zLEXWGSf3prfbIRxYtyOrEAp_AU-_HexJBidGl8vTzqXDmiypGOQkM0W_a5EpscHB=s72-c",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "11"
+        }
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7597443668011349625.post-2917489938312911206"
+        },
+        "published": {
+          "$t": "2022-03-24T01:28:00.002+00:00"
+        },
+        "updated": {
+          "$t": "2022-09-19T02:18:12.676+00:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "شروحات بلوجر"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "محول النطاقات العربية | كيفية انشاء دومين عربي blogspot على بلوجر"
+        },
+        "summary": {
+          "type": "text",
+          "$t": "هل تبحث عن طريقة انشاء دومين عربي على مدونة بلوجر ؟ هل تريد انشاء نطاق عربي على blogspot بسهولة ؟ هل تود تحويل الدومينات او النطاقات العربية ؟ هل تبحث عن محول الدومينات العربية ؟موضوع اليوم مهم جدا ولابد من قراءة المقال الى آخره دون التسرع في الحكم حيث ان هذا الموضوع سيكون حول اداة تقوم بتحويل الدومينات العربية الى كتابة لاتينية.محول النطاقات العربية\n#puny7{display:block;margin:10px 0;direction:"
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "https://www.7amian.com/feeds/2917489938312911206/comments/default",
+            "title": "تعليقات الرسالة"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "https://www.7amian.com/2022/03/Arabic-domain.html#comment-form",
+            "title": "0 تعليقات"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7597443668011349625/posts/default/2917489938312911206"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7597443668011349625/posts/default/2917489938312911206"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.7amian.com/2022/03/Arabic-domain.html",
+            "title": "محول النطاقات العربية | كيفية انشاء دومين عربي blogspot على بلوجر"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "محسن حميان"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/14526133757663220873"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "32",
+              "height": "32",
+              "src": "//2.bp.blogspot.com/-9Raq6968biU/Yp_cewJlvHI/AAAAAAAAA3w/9OEHyWEg7uwfDBkl8Jmn4Nl4T8ym72iiACK4BGAYYCw/s113/20220430_175512%2B%25281%2529.png"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhv5EUzeGR-BhD__D8jHEmjGuHPFHtGqKexi2VhM2Os4zbtCVynIZW0NLexWkxVzhPPHaBGS7YDg1E-ctrcdaZXLhPLTTgDzc2UvYZWN0RfViabma-mg2CFu1GYbHUupr6CCl7WUB-bnNIqotqZeYaR0SNZHMTzvoBbOeQ6oLbp8QNWq1o4geu0B62G=s72-c",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "0"
+        }
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7597443668011349625.post-8536866080374335496"
+        },
+        "published": {
+          "$t": "2021-12-02T00:41:00.012+00:00"
+        },
+        "updated": {
+          "$t": "2022-12-07T18:34:34.701+00:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "اضافات بلوجر"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "إضافة زر تحميل المزيد من المواضيع على مدونة بلوجر"
+        },
+        "summary": {
+          "type": "text",
+          "$t": "هل تبحث عن زر تحميل المزيد من المشاركات على مدونة بلوجر؟ هل تريد اضافة خاصية تحميل المزيد من المواضيع على بلوجر ؟كلنا نعلم ازرار التصفح المعتادة والموجودة في اغلب قوالب بلوجر، والتي تتمثل غالبا في شكل ازرار مرقمة تساعدنا على التوجه الى صفحات أخرى لتعرف على المزيد من مواضيع المدونة، لكن هذه الازرار لديها سلبيتها فعندما تريد التوجه الى صفحة أخرى فأنت تقوم بإعادة تحميل كامل الموقع وهذا نوعا ما يصعب "
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "https://www.7amian.com/feeds/8536866080374335496/comments/default",
+            "title": "تعليقات الرسالة"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "https://www.7amian.com/2021/11/load-more-posts.html#comment-form",
+            "title": "1 تعليقات"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7597443668011349625/posts/default/8536866080374335496"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7597443668011349625/posts/default/8536866080374335496"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.7amian.com/2021/11/load-more-posts.html",
+            "title": "إضافة زر تحميل المزيد من المواضيع على مدونة بلوجر"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "محسن حميان"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/14526133757663220873"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "32",
+              "height": "32",
+              "src": "//2.bp.blogspot.com/-9Raq6968biU/Yp_cewJlvHI/AAAAAAAAA3w/9OEHyWEg7uwfDBkl8Jmn4Nl4T8ym72iiACK4BGAYYCw/s113/20220430_175512%2B%25281%2529.png"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjyErrqc9kyNJAK9MYhrOeQxrQzBQIgsdlgU0t_P_oy-CT_f7RSIg_eismP_dd9s7znPx8QCWsYb7y5YDdKWdGuy-vjp5ESp95fynbWZpdwqPQNGX1ugRn9C4FeRLVlPruO5ChTPW_hXv5KPmBJkjV6KEG3yRcURm4FSGAYXKOujvzy8K-tm8LLbJx1=s72-c",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "1"
+        }
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7597443668011349625.post-4166979251259908937"
+        },
+        "published": {
+          "$t": "2021-10-09T14:22:00.011+00:00"
+        },
+        "updated": {
+          "$t": "2022-09-23T01:03:03.245+00:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "اضافات بلوجر"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "اضافة سلايد شو ثابت بصور كبيرة في الصفحة الرئيسية لمدونة بلوجر"
+        },
+        "summary": {
+          "type": "text",
+          "$t": "هل تبحث عن سلايد شو تابث متجاوب مع جميع الاجهزة الإلكترونية ؟ هل تبحث عن Slideshow بصور كبيرة ؟ هل تريد سلايد شو احترافي يعرض مشاركات مدونة بلوجر في الصفحة الرئيسية ؟كنت قد قدمت لكم من قبل شرح اضافة سلايد شو متحرك لمدونة بلوجر، وانطلاقا من ذلك قررت ان اقدم لكم في هذا الشرح كيفية اضافة سلايد شو تابث الى مدونة بلوجر يتميز كذلك بخصائص عديدة ومتنوعة تساعدك على التحكم في الإضافة بإحترافية عالية.اضافة "
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "https://www.7amian.com/feeds/4166979251259908937/comments/default",
+            "title": "تعليقات الرسالة"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "https://www.7amian.com/2021/10/Static-Slideshow.html#comment-form",
+            "title": "3 تعليقات"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7597443668011349625/posts/default/4166979251259908937"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7597443668011349625/posts/default/4166979251259908937"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.7amian.com/2021/10/Static-Slideshow.html",
+            "title": "اضافة سلايد شو ثابت بصور كبيرة في الصفحة الرئيسية لمدونة بلوجر"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "محسن حميان"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/14526133757663220873"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "32",
+              "height": "32",
+              "src": "//2.bp.blogspot.com/-9Raq6968biU/Yp_cewJlvHI/AAAAAAAAA3w/9OEHyWEg7uwfDBkl8Jmn4Nl4T8ym72iiACK4BGAYYCw/s113/20220430_175512%2B%25281%2529.png"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://1.bp.blogspot.com/-wmMba2Ao4RY/YSvKZl-mAjI/AAAAAAAAAbQ/8N8WlWFg05Mbjf0h5Bl0WjkNKDDH9XdvwCLcBGAsYHQ/s72-c/%25D8%25A5%25D8%25B6%25D8%25A7%25D9%2581%25D8%25A9-%25D8%25B3%25D9%2584%25D8%25A7%25D9%258A%25D8%25AF-%25D8%25B4%25D9%2588-slideshow-%25D8%25A5%25D8%25AD%25D8%25AA%25D8%25B1%25D8%25A7%25D9%2581%25D9%258A-%25D8%25AA%25D8%25A7%25D8%25A8%25D8%25AB-%25D9%2581%25D9%258A-%25D8%25A7%25D9%2584%25D8%25B5%25D9%2581%25D8%25AD%25D8%25A9-%25D8%25A7%25D9%2584%25D8%25B1%25D8%25A6%25D9%258A%25D8%25B3%25D9%258A%25D8%25A9-%25D9%2584%25D9%2585%25D8%25AF%25D9%2588%25D9%2586%25D8%25A9-%25D8%25A8%25D9%2584%25D9%2588%25D8%25AC%25D8%25B1.png",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "3"
+        }
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7597443668011349625.post-2499656672862481622"
+        },
+        "published": {
+          "$t": "2021-07-17T18:25:00.009+00:00"
+        },
+        "updated": {
+          "$t": "2021-12-14T19:36:47.198+00:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "شروحات بلوجر"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "كيفية اختيار قالب بلوجر مناسب لمدونتك"
+        },
+        "summary": {
+          "type": "text",
+          "$t": "هل تبحث عن قالب بلوجر مناسب لمدونتك ؟ هل تريد معرفة الطريقة الصحيحة لإختيار قالب بلوجر احترافي يحترم معايير السيو ؟ هل تريد البحث عن قالب بلوجر سريع جدا و ذو مظهر رائع وجميل؟ماهو قالب Blogger ؟اذا كنت قد تعرفت لتو على منصة بلوجر فقد تكون تتسأل ماهو هذا القالب ؟قالب بلوجر هو عبارة عن مجموعة من الاكواد البرمجية المتمثلة بالأساس في برمجة HTML و CSS ثم JavaScript هذه البرمجيات تتفاعل في مابينها "
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "https://www.7amian.com/feeds/2499656672862481622/comments/default",
+            "title": "تعليقات الرسالة"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "https://www.7amian.com/2021/07/suitable-blogger-template.html#comment-form",
+            "title": "0 تعليقات"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7597443668011349625/posts/default/2499656672862481622"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7597443668011349625/posts/default/2499656672862481622"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.7amian.com/2021/07/suitable-blogger-template.html",
+            "title": "كيفية اختيار قالب بلوجر مناسب لمدونتك"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "محسن حميان"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/14526133757663220873"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "32",
+              "height": "32",
+              "src": "//2.bp.blogspot.com/-9Raq6968biU/Yp_cewJlvHI/AAAAAAAAA3w/9OEHyWEg7uwfDBkl8Jmn4Nl4T8ym72iiACK4BGAYYCw/s113/20220430_175512%2B%25281%2529.png"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://1.bp.blogspot.com/-TVlCSdVvm7M/YPIf6K_V6HI/AAAAAAAAAZ0/yKzHuERvegMYK7WJhoG3siflqjJBJZ4hwCLcBGAsYHQ/s72-c/%25D9%2583%25D9%258A%25D9%2581-%25D8%25A7%25D8%25AE%25D8%25AA%25D8%25A7%25D8%25B1-%25D9%2582%25D8%25A7%25D9%2584%25D8%25A8-%25D8%25A8%25D9%2584%25D9%2588%25D8%25AC%25D8%25B1-%25D9%2585%25D9%2586%25D8%25A7%25D8%25B3%25D8%25A8-%25D9%2584%25D9%2585%25D8%25AF%25D9%2588%25D9%2586%25D8%25AA%25D9%258A-%25D8%25A7%25D9%2584%25D8%25B7%25D8%25B1%25D9%258A%25D9%2582%25D8%25A9-%25D8%25A7%25D9%2584%25D8%25B5%25D8%25AD%25D9%258A%25D8%25AD%25D8%25A9-%25D9%2584%25D8%25A5%25D8%25AE%25D8%25AA%25D9%258A%25D8%25A7%25D8%25B1-%25D9%2582%25D8%25A7%25D9%2584%25D8%25A8-%25D8%25A8%25D9%2584%25D9%2588%25D8%25AC%25D8%25B1.png",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "0"
+        }
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7597443668011349625.post-8382598304065644382"
+        },
+        "published": {
+          "$t": "2021-07-09T21:30:00.016+00:00"
+        },
+        "updated": {
+          "$t": "2022-09-19T02:22:08.215+00:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "اضافات بلوجر"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "اضافة سلايد شو متحرك الى مدونة بلوجر | Slideshow إحترافي وخفيف"
+        },
+        "summary": {
+          "type": "text",
+          "$t": "هل تبحث عن سلايد شو إحترافي لعرض مواضيع بلوجر؟ هل تبحث عن سلايد شو تلقائي، خفيف و متحرك ؟ هل تبحث عن سلايد شو متجاوب مع جميع الاجهزة؟ اذن انت في المقال الصحيح.اضافات بلوجر الموجودة على الانترنت كثيرة وتكاد لا تحصى لكن من بين كل هذه الإضافات نجد ان اضافة سلايد شو قليلة جدا، بل حتى وان وجدتها فأغلبها ليس احترافي او قديم ، لا يدعم خواص كثيرة ، لذلك في هذا الموضوع وفي قسم اضافات بلوجر على مدونة حميان"
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "https://www.7amian.com/feeds/8382598304065644382/comments/default",
+            "title": "تعليقات الرسالة"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "https://www.7amian.com/2021/07/SlidesShow.html#comment-form",
+            "title": "0 تعليقات"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7597443668011349625/posts/default/8382598304065644382"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7597443668011349625/posts/default/8382598304065644382"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.7amian.com/2021/07/SlidesShow.html",
+            "title": "اضافة سلايد شو متحرك الى مدونة بلوجر | Slideshow إحترافي وخفيف"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "محسن حميان"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/14526133757663220873"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "32",
+              "height": "32",
+              "src": "//2.bp.blogspot.com/-9Raq6968biU/Yp_cewJlvHI/AAAAAAAAA3w/9OEHyWEg7uwfDBkl8Jmn4Nl4T8ym72iiACK4BGAYYCw/s113/20220430_175512%2B%25281%2529.png"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://1.bp.blogspot.com/-fBTAQIdn2a8/YOXgr3rJoGI/AAAAAAAAAZU/y5j4UXINGVg0p0zLAJEFXj_iy1G-tgWywCLcBGAsYHQ/s72-c/%25D8%25B3%25D9%2584%25D8%25A7%25D9%258A%25D8%25AF-%25D8%25B4%25D9%2588-%25D9%2585%25D8%25AA%25D8%25AD%25D8%25B1%25D9%2583-slidesshow-%25D8%25A5%25D8%25AD%25D8%25AA%25D8%25B1%25D8%25A7%25D9%2581%25D9%258A.png",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "0"
+        }
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7597443668011349625.post-5295103275216582885"
+        },
+        "published": {
+          "$t": "2021-07-02T01:48:00.005+00:00"
+        },
+        "updated": {
+          "$t": "2022-09-19T02:23:39.025+00:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "اضافات بلوجر"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "اضافة شريط متحرك احترافي لمدونة بلوجر لعرض اخر الاخبار والمواضيع"
+        },
+        "summary": {
+          "type": "text",
+          "$t": "شريط متحرك لإقتراح مواضيع مدونة بلوجرهل تبحث عن شريط متحرك لعرض اخر مواضيع مدونة بلوجر ؟ هل تبحث عن شريط متحرك لعرض اخر الاخبار في مدونتك ؟ اذن انت في المقال الصحيح.اظن انك قمت بالبحث كثيرا في الانترنت عن شريط اخر الاخبار متحرك يلائم موقعك، لكن اغلب ما وجدت هو اكواد برمجية لا تعمل او شريط اخبار بدائي لا يتحرك بالطريقة المطلوبة، او ربما وجدت شريط اخبار احترافي ويعمل لكن يعتمد على اكواد برمجية "
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "https://www.7amian.com/feeds/5295103275216582885/comments/default",
+            "title": "تعليقات الرسالة"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "https://www.7amian.com/2021/07/News-Ticker.html#comment-form",
+            "title": "1 تعليقات"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7597443668011349625/posts/default/5295103275216582885"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7597443668011349625/posts/default/5295103275216582885"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.7amian.com/2021/07/News-Ticker.html",
+            "title": "اضافة شريط متحرك احترافي لمدونة بلوجر لعرض اخر الاخبار والمواضيع"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "محسن حميان"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/14526133757663220873"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "32",
+              "height": "32",
+              "src": "//2.bp.blogspot.com/-9Raq6968biU/Yp_cewJlvHI/AAAAAAAAA3w/9OEHyWEg7uwfDBkl8Jmn4Nl4T8ym72iiACK4BGAYYCw/s113/20220430_175512%2B%25281%2529.png"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://1.bp.blogspot.com/-b4r-QPbQffM/YN5jPacYJCI/AAAAAAAAAYk/qRm0WyXXLQQDEJPa5VRiNaHyNhVwTgHmwCLcBGAsYHQ/s72-c/%25D8%25A3%25D9%2581%25D8%25B6%25D9%2584-%25D8%25B4%25D8%25B1%25D9%258A%25D8%25B7-%25D9%2585%25D8%25AA%25D8%25AD%25D8%25B1%25D9%2583-%25D9%2584%25D8%25B9%25D8%25B1%25D8%25B6-%25D9%2585%25D9%2588%25D8%25A7%25D8%25B6%25D9%258A%25D8%25B9-%25D9%2585%25D8%25AF%25D9%2588%25D9%2586%25D8%25AA%25D9%2583-%25D8%25B4%25D8%25B1%25D9%258A%25D8%25B7-%25D8%25A7%25D8%25AE%25D8%25B1-%25D8%25A7%25D9%2584%25D8%25A7%25D8%25AE%25D8%25A8%25D8%25A7%25D8%25B1.png",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "1"
+        }
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7597443668011349625.post-4294882448893597610"
+        },
+        "published": {
+          "$t": "2021-06-26T18:37:00.002+00:00"
+        },
+        "updated": {
+          "$t": "2022-09-19T02:24:09.289+00:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "اضافات بلوجر"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "إضافة اداة عرض مشاركات بلوجر في الشريط الجانبي مع خواص إحترافية"
+        },
+        "summary": {
+          "type": "text",
+          "$t": "هل تبحث عن اداة عرض مواضيع بلوجر في الشريط الجانبي ؟ هل تبحث عن اداة عرض المواضيع حسب التصنيف ؟ هل تريد اداة تعرض اخر مشاركات بلوجر في Sidebar ؟ او هل تبحث عن اضافة تعرض مقالات بلوجر عشوائيا في الشريط الجانبي الأيسر ؟ إضافة عرض مواضيع مدونة بلوجر في الشريط الجانبي لقالب بلوجربسم الله والصلاة والسلام على اشرف المرسلين محمد صلى الله عليه وسلم، اليوم ان شاء الله في قسم اضافات بلوجر على مدونة حميان "
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "https://www.7amian.com/feeds/4294882448893597610/comments/default",
+            "title": "تعليقات الرسالة"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "https://www.7amian.com/2021/06/A-tool-to-display-blogger-posts-in-the-sidebar.html#comment-form",
+            "title": "0 تعليقات"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7597443668011349625/posts/default/4294882448893597610"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7597443668011349625/posts/default/4294882448893597610"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.7amian.com/2021/06/A-tool-to-display-blogger-posts-in-the-sidebar.html",
+            "title": "إضافة اداة عرض مشاركات بلوجر في الشريط الجانبي مع خواص إحترافية"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "محسن حميان"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/14526133757663220873"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "32",
+              "height": "32",
+              "src": "//2.bp.blogspot.com/-9Raq6968biU/Yp_cewJlvHI/AAAAAAAAA3w/9OEHyWEg7uwfDBkl8Jmn4Nl4T8ym72iiACK4BGAYYCw/s113/20220430_175512%2B%25281%2529.png"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://1.bp.blogspot.com/-_sXfdl1ccJo/YNdbNXV0oAI/AAAAAAAAAYQ/1pAqZfbScMU_ftcDw4x1Sm0JB7jZuVqeQCLcBGAsYHQ/s72-c/%25D8%25A3%25D8%25AF%25D8%25A7%25D8%25A9-%25D8%25B9%25D8%25B1%25D8%25B6-%25D9%2585%25D9%2588%25D8%25A7%25D8%25B6%25D9%258A%25D8%25B9-%25D8%25A8%25D9%2584%25D9%2588%25D8%25AC%25D8%25B1-%25D9%2581%25D9%258A-%25D8%25A7%25D9%2584%25D8%25B4%25D8%25B1%25D9%258A%25D8%25B7-%25D8%25A7%25D9%2584%25D8%25AC%25D8%25A7%25D9%2586%25D8%25A8%25D9%258A-%25D8%25AD%25D8%25B3%25D8%25A8-%25D8%25A7%25D9%2584%25D8%25AA%25D8%25B5%25D9%2586%25D9%258A%25D9%2581-%25D8%25A7%25D9%2588-%25D8%25A8%25D8%25B4%25D9%2583%25D9%2584-%25D8%25B9%25D8%25B4%25D9%2588%25D8%25A7%25D8%25A6%25D9%258A.png",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "0"
+        }
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7597443668011349625.post-7742386494397321851"
+        },
+        "published": {
+          "$t": "2021-06-23T19:06:00.005+00:00"
+        },
+        "updated": {
+          "$t": "2022-01-19T21:56:40.581+00:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "شروحات بلوجر"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "طريقة اضافة الجافا سكريبت الى قالب بلوجر بدون ظهور اخطاء"
+        },
+        "summary": {
+          "type": "text",
+          "$t": "هل حاولت اضافة اكواد الجافا سكريبت في قالب بلوجر وظهر لك خطأ ؟ هل بحثت عن الطريقة الصحيحة لإضافة اكواد الجافا سكريبت في قالب بلوجر ولم تجد اي شيء بعد ؟ هل قالب بلوجر مدونتك يرفض اكواد الجافا سكريبت ولا يقبل حفظها ؟مشكلة عدم قبول اكواد الجافا سكريبت في قوالب مدونة بلوجر هو مشكل مشهور ويواجه اغلب مدونين بلوجر، كما ان الشروحات في حل هذا الموضوع قليلة وغير شاملة، لذلك فاليوم على مدونة حميان "
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "https://www.7amian.com/feeds/7742386494397321851/comments/default",
+            "title": "تعليقات الرسالة"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "https://www.7amian.com/2021/06/how-to-put-script-in-blogger-template.html#comment-form",
+            "title": "2 تعليقات"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7597443668011349625/posts/default/7742386494397321851"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7597443668011349625/posts/default/7742386494397321851"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.7amian.com/2021/06/how-to-put-script-in-blogger-template.html",
+            "title": "طريقة اضافة الجافا سكريبت الى قالب بلوجر بدون ظهور اخطاء"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "محسن حميان"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/14526133757663220873"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "32",
+              "height": "32",
+              "src": "//2.bp.blogspot.com/-9Raq6968biU/Yp_cewJlvHI/AAAAAAAAA3w/9OEHyWEg7uwfDBkl8Jmn4Nl4T8ym72iiACK4BGAYYCw/s113/20220430_175512%2B%25281%2529.png"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://1.bp.blogspot.com/-WWAg20fE6tI/YNNr0jJTr6I/AAAAAAAAAX0/02TJTjvEjsIkp0fQC4xFWQORLIm3KAzbQCLcBGAsYHQ/s72-c/%25D8%25A7%25D9%2584%25D8%25B7%25D8%25B1%25D9%258A%25D9%2582%25D8%25A9-%25D8%25A7%25D9%2584%25D8%25B5%25D8%25AD%25D9%258A%25D8%25AD%25D8%25A9-%25D9%2584%25D8%25A5%25D8%25B6%25D8%25A7%25D9%2581%25D8%25A9-%25D8%25A7%25D9%2583%25D9%2588%25D8%25A7%25D8%25AF-%25D8%25A7%25D9%2584%25D8%25AC%25D8%25A7%25D9%2581%25D8%25A7-%25D8%25B3%25D9%2583%25D8%25B1%25D9%258A%25D8%25A8%25D8%25AA-%25D9%2581%25D9%258A-%25D9%2582%25D8%25A7%25D9%2584%25D8%25A8-%25D8%25A8%25D9%2584%25D9%2588%25D8%25AC%25D8%25B1-%25D8%25A8%25D8%25AF%25D9%2588%25D9%2586-%25D8%25B8%25D9%2587%25D9%2588%25D8%25B1-%25D8%25A7%25D8%25AE%25D8%25B7%25D8%25A7%25D8%25A1.png",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "2"
+        }
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7597443668011349625.post-4304872784358031520"
+        },
+        "published": {
+          "$t": "2021-06-21T00:10:00.015+00:00"
+        },
+        "updated": {
+          "$t": "2022-09-19T02:24:42.737+00:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "اضافات بلوجر"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "اداة عرض مواضيع مدونة بلوجر في الصفحة الرئيسية بشكل احترافي"
+        },
+        "summary": {
+          "type": "text",
+          "$t": "اداة عرض مواضيع مدونة بلوجر في الصفحة الرئيسية حسب التصنيف وحسب العدد الذي تريدأداة عرض المشاركات في مدونتك حسب التسمياتادوات عرض مواضيع مدونة بلوجر موجود في كل قوالب بلوجر بمختلف الأشكال والانواع وفي غالب الأحيان تعرض في الصفحة الرئيسية لكن من النادر ان تجد مواضيع في الانترنت تقدم ادوات او اضافات معروضة لتركيب اليدوي وبالخصوص الإضافات التي تعرض مواضيع مدونة بلوجر في الصفحة الرئيسية لهذا اليوم "
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "https://www.7amian.com/feeds/4304872784358031520/comments/default",
+            "title": "تعليقات الرسالة"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "https://www.7amian.com/2021/06/Blogger-Tool-Pro.html#comment-form",
+            "title": "1 تعليقات"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7597443668011349625/posts/default/4304872784358031520"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7597443668011349625/posts/default/4304872784358031520"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.7amian.com/2021/06/Blogger-Tool-Pro.html",
+            "title": "اداة عرض مواضيع مدونة بلوجر في الصفحة الرئيسية بشكل احترافي"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "محسن حميان"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/14526133757663220873"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "32",
+              "height": "32",
+              "src": "//2.bp.blogspot.com/-9Raq6968biU/Yp_cewJlvHI/AAAAAAAAA3w/9OEHyWEg7uwfDBkl8Jmn4Nl4T8ym72iiACK4BGAYYCw/s113/20220430_175512%2B%25281%2529.png"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://1.bp.blogspot.com/-yV1S_5cvJmM/YM5iC82khmI/AAAAAAAAAXU/u0ukOWvFJ94rj_H-idHaECp6eqiZX5qCwCLcBGAsYHQ/s72-c/%25D8%25A7%25D8%25B6%25D8%25A7%25D9%2581%25D8%25A9-%25D8%25A7%25D8%25AF%25D8%25A7%25D8%25A9-%25D8%25B9%25D8%25B1%25D8%25B6-%25D9%2585%25D9%2588%25D8%25A7%25D8%25B6%25D9%258A%25D8%25B9-%25D9%2585%25D8%25AF%25D9%2588%25D9%2586%25D8%25A9-%25D8%25A8%25D9%2584%25D9%2588%25D8%25AC%25D8%25B1-%25D9%2581%25D9%258A-%25D8%25A7%25D9%2584%25D8%25B5%25D9%2581%25D8%25AD%25D8%25A9-%25D8%25A7%25D9%2584%25D8%25B1%25D8%25A6%25D9%258A%25D8%25B3%25D9%258A%25D8%25A9-%25D8%25AD%25D8%25B3%25D8%25A8-%25D8%25A7%25D9%2584%25D8%25AA%25D8%25B5%25D9%2586%25D9%258A%25D9%2581-%25D9%2588%25D8%25AD%25D8%25B3%25D8%25A8-%25D8%25A7%25D9%2584%25D8%25B9%25D8%25AF%25D8%25AF-%25D8%25A7%25D9%2584%25D8%25B0%25D9%258A-%25D8%25AA%25D8%25B1%25D9%258A%25D8%25AF.png",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "1"
+        }
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7597443668011349625.post-2904046709637726937"
+        },
+        "published": {
+          "$t": "2021-06-13T20:12:00.027+00:00"
+        },
+        "updated": {
+          "$t": "2022-09-21T02:05:23.322+00:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "قوالب بلوجر"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "قالب اختصار الروابط يدعم سكريبت اختصار الروابط تلقائيا"
+        },
+        "summary": {
+          "type": "text",
+          "$t": "قوالب بلوجر لاختصار الروابط وتسمى ايضا قوالب تشفير الروابط هذه القوالب عديدة ومتنوعة في الانترنت لكن اغلبها متشابه وتعتبر ناقصة لكونها لا تحتوي على خصائص مميزة مثل سكريبت اختصار الروابط تلقائيا اضافة ان اغلبها يحتوي على صفحة انتظار واحدة لهذا السبب قمت ببرمجة قالب اختصار روابط لبلوجر احترافي يحتوي على مجموعة من المميزات حيث انه يدعم خاصية توليد سكريبت لإختصار الروابط تلقائيا في موقعك الإلكتروني "
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "https://www.7amian.com/feeds/2904046709637726937/comments/default",
+            "title": "تعليقات الرسالة"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "https://www.7amian.com/2021/06/Shortcut-links-template.html#comment-form",
+            "title": "7 تعليقات"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7597443668011349625/posts/default/2904046709637726937"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7597443668011349625/posts/default/2904046709637726937"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.7amian.com/2021/06/Shortcut-links-template.html",
+            "title": "قالب اختصار الروابط يدعم سكريبت اختصار الروابط تلقائيا"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "محسن حميان"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/14526133757663220873"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "32",
+              "height": "32",
+              "src": "//2.bp.blogspot.com/-9Raq6968biU/Yp_cewJlvHI/AAAAAAAAA3w/9OEHyWEg7uwfDBkl8Jmn4Nl4T8ym72iiACK4BGAYYCw/s113/20220430_175512%2B%25281%2529.png"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://1.bp.blogspot.com/-Ul2mdmf76Yw/YMUGAWk-wII/AAAAAAAAAVU/TRUFrQ4b554_KF_xjjMXHNZJw-Jm00PPgCLcBGAsYHQ/s72-c/%25D9%2582%25D8%25A7%25D9%2584%25D8%25A8%2B%25D8%25A7%25D8%25AE%25D8%25AA%25D8%25B5%25D8%25A7%25D8%25B1%2B%25D8%25A7%25D9%2584%25D8%25B1%25D9%2588%25D8%25A7%25D8%25A8%25D8%25B7%2B%25D8%25A7%25D8%25AD%25D8%25AA%25D8%25B1%25D8%25A7%25D9%2581%25D9%258A%2B%25D9%2582%25D8%25A7%25D9%2584%25D8%25A8%2B%25D8%25A8%25D9%2584%25D9%2588%25D8%25AC%25D8%25B1%2B%25D9%2584%25D8%25A5%25D8%25AE%25D8%25AA%25D8%25B5%25D8%25A7%25D8%25B1%2B%25D8%25A7%25D9%2584%25D8%25B1%25D9%2588%25D8%25A7%25D8%25A8%25D8%25B7%2B%25D8%25A7%25D9%2588%2B%25D9%2584%25D8%25AA%25D8%25B4%25D9%2581%25D9%258A%25D8%25B1%2B%25D8%25A7%25D9%2584%25D8%25B1%25D9%2588%25D8%25A7%25D8%25A8%25D8%25B7.png",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "7"
+        }
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-7597443668011349625.post-4087593893059499482"
+        },
+        "published": {
+          "$t": "2021-05-15T15:44:00.007+00:00"
+        },
+        "updated": {
+          "$t": "2021-06-14T14:08:05.452+00:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "شروحات بلوجر"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "طريقة تغيير صيغة التاريخ المعروض في مواضيع مدونة بلوجر"
+        },
+        "summary": {
+          "type": "text",
+          "$t": "موضوع اليوم سيكون موضوع نادر وحصري حيث سنشرح طريقة تغيير شكل او صيغة التاريخ المعروض بجانب مواضيع مدونة بلوجر ونقصد بذلك التاريخ الموجود في كل تدوينة والتاريخ المعروض في مواضيع الصفحة الرئيسية وكذلك المعروض في اداة المشاركات الشائعة سوف نشرح إن شاء الله بالتفصيل طريقة تغيير التاريخ ليصبح بصيغة احترافية تضم اسم اليوم ورقم اليوم واسم الشهر ثم السنة على التوالي.طريقة تغيير صيغة تاريخ مواضيع مدونة "
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "https://www.7amian.com/feeds/4087593893059499482/comments/default",
+            "title": "تعليقات الرسالة"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "https://www.7amian.com/2021/05/Change-Form-of-Date.html#comment-form",
+            "title": "0 تعليقات"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7597443668011349625/posts/default/4087593893059499482"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/7597443668011349625/posts/default/4087593893059499482"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://www.7amian.com/2021/05/Change-Form-of-Date.html",
+            "title": "طريقة تغيير صيغة التاريخ المعروض في مواضيع مدونة بلوجر"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "محسن حميان"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/14526133757663220873"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "32",
+              "height": "32",
+              "src": "//2.bp.blogspot.com/-9Raq6968biU/Yp_cewJlvHI/AAAAAAAAA3w/9OEHyWEg7uwfDBkl8Jmn4Nl4T8ym72iiACK4BGAYYCw/s113/20220430_175512%2B%25281%2529.png"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://1.bp.blogspot.com/-io-K_ZaK2No/YJ3En7IuzPI/AAAAAAAAAUQ/h-_fQLVXv7Uzmq9dlCQMvpGTpgV3XdYVQCLcBGAsYHQ/s72-c/%25D8%25AA%25D8%25BA%25D9%258A%25D9%258A%25D8%25B1%2B%25D8%25B5%25D9%258A%25D8%25BA%25D8%25A9%2B%25D8%25A7%25D9%2584%25D8%25AA%25D8%25A7%25D8%25B1%25D9%258A%25D8%25AE%2B%25D9%2581%25D9%258A%2B%25D9%2585%25D9%2588%25D8%25A7%25D8%25B6%25D9%258A%25D8%25B9%2B%25D9%2585%25D8%25AF%25D9%2588%25D9%2586%25D8%25A9%2B%25D8%25A8%25D9%2584%25D9%2588%25D8%25AC%25D8%25B1%25D8%258C%2B%25D8%25AA%25D8%25BA%25D9%258A%25D9%258A%25D8%25B1%2B%25D8%25B4%25D9%2583%25D9%2584%2B%25D8%25AA%25D8%25A7%25D8%25B1%25D9%258A%25D8%25AE%2B%25D9%2585%25D8%25AF%25D9%2588%25D9%2586%25D8%25A9%2B%25D8%25A8%25D9%2584%25D9%2588%25D8%25AC%25D8%25B1.png",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "0"
+        }
+      }
+    ]
+  }
+}
